@@ -13,3 +13,14 @@ Add Screen
 
 ![3](https://user-images.githubusercontent.com/31467986/145163585-1780a2fd-4176-4305-9127-3da24cfac1f1.PNG)
 Show Todolist Screen(Home Page)
+
+
+
+
+Run the client run with    
+* ```npm start```
+
+Run the server with    
+* ```npm run dev```
+
+

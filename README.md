@@ -15,6 +15,8 @@ Add Screen
 Show Todolist Screen(Home Page)
 
 
+Clone the project with git clone   
+```npm install```   
 
 
 Run the client run with    
